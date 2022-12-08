@@ -1,6 +1,6 @@
 # projeto_loja_eletro
 
-Cursos RECODE 😁👍
+Curso RECODE 😁👍
 
 Conteúdo do curso de Desenvolvimente web básico da RECODE com projeto site de vendas "FULL STACK ELETRO".
 
