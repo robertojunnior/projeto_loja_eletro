@@ -12,7 +12,7 @@ TECNOLOGIAS que farão parte deste projeto 🧑‍🚀🚀:
 - Sql Server.
 
 
-Abaixo etapa atual em que me encontro no estudo das aulas, assim que for avançando será atualizado automáticamente.
+Abaixo etapa atual em que me encontro no estudo das aulas, assim que for avançando será atualizado automaticamente.
 
 Para visualizar a parcial do projeto <a href="https://robertojunnior.github.io/projeto_loja_eletro/">clique aqui</a>! 👽
 
