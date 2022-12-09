@@ -2,6 +2,15 @@
     font-family:Arial, Helvetica, sans-serif ;
 }
 
+body {
+    min-height: 100%;
+}
+
+main {
+   
+}
+
+
 table#menu {
     width: 100%;
     background-color: rgb(255, 0, 0);
@@ -42,5 +51,13 @@ div#pagamentos {
 #formas-pagamento {
     width: 300px;
     margin-top: -20px;
+    
+}
+
+footer {
+    color: aliceblue;
+    background-color: rgb(87, 87, 87);
+    padding: 10px;
+    text-align: center;
     
 }

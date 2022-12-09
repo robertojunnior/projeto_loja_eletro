@@ -1,6 +1,5 @@
 * {
     font-family:Arial, Helvetica, sans-serif ;
-    
 }
 
 table#menu {
@@ -86,5 +85,14 @@ div#pagamentos {
 #formas-pagamento {
     width: 300px;
     margin-top: -20px;
+    
+}
+
+footer {
+    position: relative;
+    color: white;
+    background-color: rgb(68, 67, 67);
+    padding: 10px;
+    text-align: center;
     
 }

@@ -41,3 +41,11 @@ div#pagamentos {
     margin-top: -20px;
     
 }
+
+footer {
+    color: aliceblue;
+    background-color: rgb(87, 87, 87);
+    padding: 10px;
+    text-align: center;
+    
+}
