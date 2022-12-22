@@ -7,7 +7,7 @@ body {
 }
 
 main {
-   
+   width: 100%;
 }
 
 
@@ -22,7 +22,7 @@ table#menu {
 
 #logo {
     width: 100px;
-    }
+}
 
 table#menu a {
 color: white;
