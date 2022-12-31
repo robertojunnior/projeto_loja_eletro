@@ -37,7 +37,7 @@ table#produtos {
 }
 
 #fp {
-    color: rgb(7, 7, 7);
+    color: rgb(253, 0, 0);
 }
 
 div#pagamentos {
@@ -49,7 +49,7 @@ div#pagamentos {
 }
 
 #formas-pagamento {
-    width: 300px;
+    width: 350px;
     margin-top: -20px;
     
 }
